@@ -17,6 +17,13 @@ body {
   line-height: 1.5;
 }
 
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
 h1,
 h2,
 h3,
