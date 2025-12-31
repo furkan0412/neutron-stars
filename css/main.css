@@ -26,3 +26,14 @@ h6 {
   font-family: 'Space Grotesk', 'Courier New', Courier, monospace;
 }
 
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+h4,
+h5,
+h6 {
+  line-height: 1.4;
+}
