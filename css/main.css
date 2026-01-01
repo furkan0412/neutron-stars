@@ -72,6 +72,10 @@ h6 {
   line-height: 1.4;
 }
 
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
 
 .nav-logo {
   height: 50px;
