@@ -146,6 +146,10 @@ h6 {
   gap: 50px;
 }
 
+.card > p {
+  font-size: 1.2rem;
+}
+
 .card {
   display: flex;
   flex-direction: column;
