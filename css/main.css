@@ -73,8 +73,8 @@ h6 {
 }
 
 .container {
-  max-width: 1200px;
-  margin: auto;
+  /* max-width: 1200px;
+  margin: auto; */
 }
 
 .nav-logo {
@@ -82,9 +82,12 @@ h6 {
   width: auto;
 }
 
+.hero-section {
+  background-color: gray;
+}
+
 .primary-nav {
   display: flex;
-  margin: 10px;
 }
 
 .item-2 {
