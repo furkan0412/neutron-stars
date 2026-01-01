@@ -74,3 +74,8 @@ h6 {
 .primary-nav {
   display: flex;
 }
+
+.item-2 {
+  display: flex;
+  margin-left: auto;
+}
