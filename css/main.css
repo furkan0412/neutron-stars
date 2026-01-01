@@ -58,3 +58,9 @@ h5,
 h6 {
   line-height: 1.4;
 }
+
+
+.nav-logo {
+  height: 50px;
+  width: auto;
+}
