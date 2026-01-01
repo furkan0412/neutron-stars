@@ -72,11 +72,6 @@ h6 {
   line-height: 1.4;
 }
 
-.container {
-  /* max-width: 1200px;
-  margin: auto; */
-}
-
 .nav-logo {
   height: 50px;
   width: auto;
@@ -102,7 +97,26 @@ h6 {
 
 .hero-section-main {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
   margin: 10px;
+  gap: 40px;
   color: #e5e7eb;
+}
+
+.hero-subsection {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.hero-item-3 {
+  width: 8rem;
+}
+
+.hero-image {
+  max-width: 500px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
 }
