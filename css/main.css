@@ -127,6 +127,9 @@ h6 {
 .hero-item-3 {
   width: fit-content;
   padding: 8px 20px;
+  color: #ffffff;
+  background-color: #1469f1;
+  border-radius: 8px;
 }
 
 .hero-image {
