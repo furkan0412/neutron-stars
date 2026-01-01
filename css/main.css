@@ -77,9 +77,13 @@ h6 {
 
 .primary-nav {
   display: flex;
+  margin: 10px;
 }
 
 .item-2 {
   display: flex;
   margin-left: auto;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
