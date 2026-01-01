@@ -91,3 +91,9 @@ h6 {
   gap: 10px;
   font-size: 1.2rem;
 }
+
+.hero-section-main {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
