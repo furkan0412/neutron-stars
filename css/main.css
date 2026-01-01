@@ -116,14 +116,6 @@ h6 {
   gap: 10px;
 }
 
-.hero-item-1 {
-  
-}
-
-.hero-item-2 {
-
-}
-
 .hero-item-3 {
   width: fit-content;
   padding: 8px 20px;
@@ -150,7 +142,7 @@ h6 {
   display: flex;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 10px;
+  padding: 2rem;
   gap: 50px;
 }
 
@@ -178,4 +170,55 @@ h6 {
   height: auto;
   border-radius: 10px;
   margin: auto;
+}
+
+.quote-section {
+  text-align: center;
+  font-size: 1.7rem;
+  padding: 5rem;
+  background-color: #E5E7EB;
+  font-style: italic;
+}
+
+.cta-section {
+  display: flex;
+  background-color: #1469f1;
+  padding: 3rem;
+  gap: 2rem;
+  margin: 5rem;
+  border-radius: 10px;
+}
+
+.cta-flex-left {
+  display: flex; 
+  flex-direction: column;
+}
+
+.cta-flex-left > h3 {
+  color: #fff;
+}
+
+.cta-flex-left > p {
+  color: #e5e7eb;
+}
+
+.cta-flex-right {
+  display: flex;
+  margin-left: auto;
+}
+
+.cta-button {
+  width: fit-content;
+  padding: 8px 20px;
+  color: #ffffff;
+  background-color: #1469f1;
+  border-radius: 8px;
+}
+
+.footer {
+  font-size: 1.2rem;
+  background-color: #1f2939;
+  color: #fff;
+  padding: 2.5rem;
+  text-align: center;
 }
